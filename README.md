@@ -9,7 +9,7 @@ Configurable example settings include:
 
 - The bot checks if any coin has increased by more than 3% in the past 5 minutes.
 - It buys 92 USDT of the most volatile coins.
-- It sells at a 25% profit or a 3% stop loss.
+- It sells at a 26% profit or a 3% stop loss.
 <br><br>
 
 ## READ BEFORE USE
